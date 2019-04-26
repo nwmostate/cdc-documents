@@ -1,6 +1,6 @@
 # Constitution for the Northwest Missouri State University Cyber Defense Club
 
-### Approved April 14, 2016
+### Approved April 26, 2019
 
 ## Article I : Name, Purpose, Non-Discrimination Policy, and Non-Hazing Policy
 
@@ -28,19 +28,46 @@ The organization is a student organization at Northwest Missouri State Universit
 
 ## Article II : Membership
 
-* Any student at Northwest Missouri State University with a cumulative grade point average of 2.0 is eligible to be an active member and may hold office.
+* Any full time or part time student at Northwest Missouri State University is eligible to be an active member and may hold office.
 
 ## Article III : Officers
 
 #### Section I : Election of Officers
 
-1. The official officers of this organization are president, vice president, secretary (records officer), and treasurer.
+1. The official officers of this organization are president, vice president, secretary (records officer), and treasurer, publicist, service chair, technical director, and exec alum.
 2. Members can hold at most one official position.
 3. c.	Officers will be elected by written or verbal ballot, with each present member casting a vote. A majority vote will constitute a victory.
 4. Election of officers will take place during the end of the spring semester.
 5. Officers will assume office for the period of two semesters.
 
-#### Section II : Recall of Officers
+#### Section II: Duties of Officers
+
+1. President
+  * Preside over executive meetings unless abdicated to another officer
+  * Be the official liaison between ACM and CDC
+2. Vice-President
+  * Assume the duties of the President in their absence
+  * Assume duties abdicated by the President
+3. Secretary
+  * Keep notes for executive meetings
+  * Maintain the CDC Github and Archives
+  * Send official notification of Constitution changes to the Advisor
+4. Treasurer
+  * Maintain financial and membership records
+5. Publicist
+  * Be responsible for all communication to members
+  * Be responsible for any social media presence
+6. Service Chair
+  * Manage bearcat link
+  * Manage any philanthropy
+7. Technical Director
+  * Coordinate lab with presentations
+  * Maintain lab network for demonstrations
+8. Exec Alum
+  * Advisor to the Executive Board
+  * Maintain communication to recent CDC alumni
+
+#### Section III : Recall of Officers
 
 1. Officers are subject to recall for malfeasance in office.
 2. Recall procedures will be initiated at the request of three of the active members.
