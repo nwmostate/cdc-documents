@@ -1,6 +1,7 @@
 # Constitution for the Northwest Missouri State University Cyber Defense Club
 
 ### Approved April 26, 2019
+### Last Modified April 26, 2019
 
 ## Article I : Name, Purpose, Non-Discrimination Policy, and Non-Hazing Policy
 
