@@ -1,7 +1,7 @@
 # Constitution for the Northwest Missouri State University Cyber Defense Club
 
 ### Approved April 26, 2019
-### Last Modified April 26, 2019
+### Last Modified September 10, 2020
 
 ## Article I : Name, Purpose, Non-Discrimination Policy, and Non-Hazing Policy
 
@@ -61,12 +61,6 @@ The organization is a student organization at Northwest Missouri State Universit
 6. Service Chair
   * Manage bearcat link
   * Manage any philanthropy
-7. Technical Director
-  * Coordinate lab with presentations
-  * Maintain lab network for demonstrations
-8. Exec Alum
-  * Advisor to the Executive Board
-  * Maintain communication to recent CDC alumni
 
 #### Section III : Recall of Officers
 
